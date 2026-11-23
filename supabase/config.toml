@@ -1,0 +1,4 @@
+project_id = "bolt"
+
+[functions.rca-ai]
+verify_jwt = false
